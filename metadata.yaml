@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '31774'
     url: http://www.gutenberg.org/2009/agents/31774
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26065#Hugh-Bishop-of-LincolnA-Short-Story-of-One-of-the-Makers-of-Mediaeval-England
 gutenberg_issued: '2008-07-15'
 gutenberg_type: Text
 identifiers:
