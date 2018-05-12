@@ -1,0 +1,29 @@
+_repo: Hugh-Bishop-of-LincolnA-Short-Story-of-One-of-the-Makers-of-Mediaeval-England_26065
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Marson, Charles L. (Charles Latimer)
+    alias: Marson, C. L. (Charles Latimer)
+    birthdate: 1858
+    deathdate: 1914
+    gutenberg_agent_id: '31774'
+    url: http://www.gutenberg.org/2009/agents/31774
+description: ''
+gutenberg_issued: '2008-07-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26065'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hugh, of Lincoln, Saint, 1140-1200'
+- !lcc 'BX'
+title: 'Hugh, Bishop of Lincoln
+
+  A Short Story of One of the Makers of Mediaeval England'
+url: http://www.gutenberg.org/ebooks/26065
